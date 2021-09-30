@@ -1,7 +1,7 @@
 {
   "name": "testing",
   "version": "0.1.0",
-  "homepage": "http://bodiabeliy.github.io/test-task",
+  "homepage": "http://bodiabeliy.github.io/test-card",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.4.1",
